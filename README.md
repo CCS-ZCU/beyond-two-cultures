@@ -11,7 +11,7 @@ CC-BY-SA 4.0, see attached License.md
 ---
 ## Description
 
-[What is the purpose of this repo? Is it related to any specific dataset or publication output?]
+This repository serves for exploration of various dataset relevant for the debate about the current state and future of the so-called Two Cultures.
 
 ## Getting started
 
